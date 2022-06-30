@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "logger": "file:common/logger",
+    "mongo": "file:common/mongo",
+    "mysql": "file:common/mysql",
+    "redis": "file:common/redis",
+    "security": "file:common/security",
+    "utils": "file:common/utils"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "rollup": "^2.75.7"
+  }
+}
